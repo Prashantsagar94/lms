@@ -1,0 +1,6 @@
+{
+  "name": "HunarSetu LMS - Skill Development Training Programme",
+  "description": "HunarSetu LMS: हुनर से रोज़गार तक · A Skill Bridge. Vocational skill training courses for Garment Making, Hand Embroidery, Bridal Mehndi, and Beauty & Wellness with protected video learning, interactive assessments, and automated PDF certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
